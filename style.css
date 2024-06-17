@@ -1,0 +1,8 @@
+html, body{
+  background-color: pink; 
+}
+button{
+  display:block;
+  margin:auto;
+  width:130px;
+  }
